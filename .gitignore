@@ -8201,3 +8201,7 @@ venv/ssl/openssl.cnf.dist
 venv/ssl/misc/CA.pl
 venv/ssl/misc/tsget
 venv/ssl/misc/tsget.pl
+OpenCV/Lecture Resources/.DS_Store
+OpenCV/Lecture Resources/Reading_and_writing_images/output.jpg
+OpenCV/Lecture Resources/Reading_and_writing_images/reading_and_writing.ipynb
+OpenCV/Reading and Writing Images/.ipynb_checkpoints/ReadingAndWritingImages-checkpoint.ipynb
